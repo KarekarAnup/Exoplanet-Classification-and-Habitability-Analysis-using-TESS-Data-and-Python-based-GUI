@@ -1,0 +1,2 @@
+# Exoplanet-Classification-and-Habitability-Analysis-using-TESS-Data-and-Python-based-GUI
+This project involves the development of a Python-based GUI application for the analysis of exoplanet data from the TESS mission. The application integrates various astrophysical algorithms to classify stars into stellar types, calculate exoplanet eccentricity, assess habitability based on insolation, and evaluate transit parameters.
